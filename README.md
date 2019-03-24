@@ -18,6 +18,6 @@
 
 ### 2: See hex_to_base.rb
 
-![](/images/cthulhu.jpg)
+![](/images/cthulhu.jpeg)
 
 ### 3: See specialMath.scala --  90 -> 19740274219868223074
